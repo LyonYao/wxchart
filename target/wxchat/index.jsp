@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<a href='weixin://contacts/profile/wx0594ed1acbd0dd0d'>a</a>
 </body>
 </html>
